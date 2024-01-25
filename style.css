@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+#main{
+    font-family: 'Lemon', serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: rgb(111, 143, 156);
+    border-radius: 67px ;
+    box-shadow: 4px 5px 55px 7px  ;
+}
+
+#img-div{
+    text-align: center;
+    margin-bottom: 40px;
+}
+img{
+    width: 60%;
+    border-radius: 56px;
+}
+#figure{
+    max-width: 100%;
+}
+
+#tribute-info p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+#list-books{
+    margin-top: 20px;
+}
+
+#list-books li{
+    margin-bottom: 10px;
+}
+
+q{
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+    line-height: 25px;
+    font-style: italic;
+}
